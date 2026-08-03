@@ -1,0 +1,14 @@
+reg_init_chk
+reg_rw_chk
+reg_reserved_chk
+reg_one_hot_chk
+halt_mode_chk
+cnt_counting_chk
+cnt_ctrl_chk
+apb_protocol_chk
+reg_err_chk
+interrupt_chk
+apb_multiple_access
+apb_unaligned_chk
+reg_rst_chk
+interrupt_rst_chk
